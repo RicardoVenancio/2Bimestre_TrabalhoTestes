@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="sindicoDaoTest" project="4Semestre_1Bimestre_Prova" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="dao.sindicoDaoTest" time="0.001">
+    <testcase name="testAlterar" classname="dao.sindicoDaoTest" time="0.0"/>
+    <testcase name="testDeletar" classname="dao.sindicoDaoTest" time="0.0"/>
+    <testcase name="testInserir" classname="dao.sindicoDaoTest" time="0.0"/>
+  </testsuite>
+</testrun>

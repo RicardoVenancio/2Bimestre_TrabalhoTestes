@@ -1,0 +1,38 @@
+package dao;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import entity.Sindico;
+
+public class sindicoDaoTest {
+
+	@Test
+	public void testInserir() {
+		boolean b;
+		b = sindicoDao.inserir(null);
+		
+	}
+
+	@Test
+	public void testListAll() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testFindByID() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testAlterar() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testDeletar() {
+		fail("Not yet implemented");
+	}
+
+}
